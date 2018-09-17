@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19ab2173ef847674c9ce8201a3b9b5fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_GroundCheck: {instanceID: 0}
+  - m_CeilingCheck: {instanceID: 0}
+  - scoreboard: {instanceID: 0}
+  - tintMaterial: {fileID: 2100000, guid: eb7a0b729e4cb214fa9bd6a4f5df777b, type: 2}
+  - spriteMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
