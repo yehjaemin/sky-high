@@ -15,3 +15,5 @@ Features:
 - double jump
 - animated coin collectibles
 - continuous level generation
+
+The C# scripts are provided in this repository.
